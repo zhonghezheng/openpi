@@ -4,6 +4,8 @@ checkpoints/
 data/
 wandb/
 hf/
+slurm_outputs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
